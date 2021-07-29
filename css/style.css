@@ -1,32 +1,45 @@
 #header {
     background: #264653;
 }
+
 .text-gray-400 {
     color: #E0E0E0;
 }
+
 .text-gray-600 {
     color: #6c6c6c;
 }
+
 .bg-red {
     background: #F76F51;
 }
+
 .text-red {
     color: #F76F51;
 }
+
 .text-sky {
     color: #23A5F0;
 }
+.text-green {
+    color: green;
+}
+
 .grayscale {
     filter: grayscale(100%);
     transition: 0.3s;
 }
+
 .my-8 {
     margin-top: 64px;
     margin-bottom: 72px;
 }
-.According-img img {
-    max-width: 440px;
+
+.w-custom {
+    max-width: 500px;
+    height: auto;
 }
+
 footer {
     margin-top: 60px;
     height: 250px;
