@@ -1,0 +1,38 @@
+#header {
+    background: #264653;
+}
+.text-gray-400 {
+    color: #E0E0E0;
+}
+.text-gray-600 {
+    color: #6c6c6c;
+}
+.banner-img img {
+    width: auto;
+    max-width: 480px;
+}
+.bg-red {
+    background: #F76F51;
+}
+.text-red {
+    color: #F76F51;
+}
+.text-sky {
+    color: #23A5F0;
+}
+.grayscale {
+    filter: grayscale(100%);
+    transition: 0.3s;
+}
+.my-8 {
+    margin-top: 64px;
+    margin-bottom: 72px;
+}
+.According-img img {
+    max-width: 440px;
+}
+footer {
+    margin-top: 60px;
+    height: 250px;
+    background: #04020e;
+}
